@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruit",
+      "freshness": "New",
+      "price": "40",
+      "comment": "Good Taste",
+      "date": "2024-03-18T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
